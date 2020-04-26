@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FlipkartTesting" duration-ms="132222" started-at="2020-04-25T18:44:26Z" finished-at="2020-04-25T18:46:38Z">
+    <groups>
+    </groups>
+    <test name="LoginFeatures" duration-ms="132222" started-at="2020-04-25T18:44:26Z" finished-at="2020-04-25T18:46:38Z">
+      <class name="com.test.TestHomePage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.TestHomePage@685cb137]" name="setUp" is-config="true" duration-ms="12837" started-at="2020-04-26T00:14:26Z" finished-at="2020-04-26T00:14:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testForPositiveResponse()[pri:49, instance:com.test.TestHomePage@685cb137]" name="testForPositiveResponse" duration-ms="3493" started-at="2020-04-26T00:14:39Z" finished-at="2020-04-26T00:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForPositiveResponse -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.TestHomePage@685cb137]" name="tearDown" is-config="true" duration-ms="30920" started-at="2020-04-26T00:14:42Z" finished-at="2020-04-26T00:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.TestHomePage@685cb137]" name="setUp" is-config="true" duration-ms="9904" started-at="2020-04-26T00:15:13Z" finished-at="2020-04-26T00:15:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testForNegativeResponse()[pri:50, instance:com.test.TestHomePage@685cb137]" name="testForNegativeResponse" duration-ms="929" started-at="2020-04-26T00:15:23Z" finished-at="2020-04-26T00:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForNegativeResponse -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.TestHomePage@685cb137]" name="tearDown" is-config="true" duration-ms="30890" started-at="2020-04-26T00:15:24Z" finished-at="2020-04-26T00:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.TestHomePage@685cb137]" name="setUp" is-config="true" duration-ms="10674" started-at="2020-04-26T00:15:55Z" finished-at="2020-04-26T00:16:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testForIncorrectPass()[pri:51, instance:com.test.TestHomePage@685cb137]" name="testForIncorrectPass" duration-ms="1069" started-at="2020-04-26T00:16:06Z" finished-at="2020-04-26T00:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForIncorrectPass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.TestHomePage@685cb137]" name="tearDown" is-config="true" duration-ms="31433" started-at="2020-04-26T00:16:07Z" finished-at="2020-04-26T00:16:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.TestHomePage -->
+    </test> <!-- LoginFeatures -->
+  </suite> <!-- FlipkartTesting -->
+</testng-results>
