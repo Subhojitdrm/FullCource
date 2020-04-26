@@ -20,4 +20,11 @@ pipeline {
             }
         }
     }
+    
+    
+    post {
+        always {
+            emailext attachLog: true, body: 'test_mail', recipientProviders: [culprits()], subject: 'This is test', to: 'subhojitroycae@gmail.com'
+        }
+    }
 }
